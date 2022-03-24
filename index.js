@@ -30,3 +30,8 @@ function untilNum(num){
  }
 }
 untilNum(8)
+
+function multiply(num, num2) {
+    return num * num2
+}
+console.log(multiply(3, 10))
